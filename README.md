@@ -15,4 +15,4 @@ A fim de sanar essa impossibilidade e utilizando de conceitos triviais como a op
 
 A fim de demonstrar uma estrutura pronta utilizando esse conceito temos um notebook que o guiará nos passos desse entendimento.
 
-[Notebook - Estrutura Circular]()
+[Notebook - Estrutura Circular](https://colab.research.google.com/drive/1MnDcRgTF_VvjZbxZ_uXcZqkR-j4S7Qhn?usp=sharing)
