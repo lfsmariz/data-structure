@@ -7,7 +7,7 @@ Dada uma estrutura não circular sendo percorrida, nenhuma posição aquém de u
 
 ![](./img/vetorsimples.png)
 
-A fim de sanar essa impossibilidade e utilizando de conceitos matemáticos triviais como '%'- mod podemos tornar essa estrutura em algo cíclico e facilmente manipulável
+A fim de sanar essa impossibilidade e utilizando de conceitos triviais como a operação '%'- módulo e ponteiros. podemos tornar essa estrutura em algo cíclico e facilmente manipulável
 
 ![](./img/vetorcircular.png)
 
