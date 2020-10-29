@@ -85,10 +85,11 @@ vetorC.exibeVetorCircular()
     
     # https://leetcode.com/problems/design-circular-queue/ - baseado na resolução da seguinte questão do leetcode
 
-    # MyCircularQueue(k): Constructor, set the size of the queue to be k.
-    # inicioVetor: Get the inicioVetor item from the queue. If the queue is empty, return -1.
-    # fimVetor: Get the last item from the queue. If the queue is empty, return -1.
-    # adicionaVetor(value): Insert an element into the circular queue. Return true if the operation is successful.
-    # removeVetor(): Delete an element from the circular queue. Return true if the operation is successful.
-    # isEmpty(): Checks whether the circular queue is empty or not.
-    # isFull(): Checks whether the circular queue is full or not.
+    # vetorCircular(k): Construtor de um vetor circular .
+    # inicioVetor: Retorna o início do vetor, se ele estiver vazio, exibe na tela essa informação e retorna -1
+    # fimVetor: Retorna o fim do vetor, se ele estiver vazio, exibe na tela essa informação e retorna -1
+    # adicionaVetor(value): Insere um novo elemento no vetor e retorna true se a operação foi completada
+    # removeVetor(): remove um elemento no vetor e retorna true se a operação foi completada
+    # isEmpty(): Checa se o vetor está vazio ou não.
+    # isFull(): Checa se o vetor está cheio ou não.
+    # exibeVetorCircular() : Exibe o vetor circular em tela
